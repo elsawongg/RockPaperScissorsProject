@@ -1,7 +1,9 @@
 # Rock Paper Scissors Game
+
 An interactive classic game of Rock Paper Scissors against the computer in the Python Programming Language. Implementing features such as user input, random number generation, and conditional statement.
 
 # Code 
+
 import random
 
 usercount = 0
